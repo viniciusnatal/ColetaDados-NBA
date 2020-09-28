@@ -1,0 +1,374 @@
+{
+    "Cesta de 3 Pontos": [
+        {
+            "Posicao": 1,
+            "Jogador": "James Harden",
+            "Time": "HOU",
+            "Pontos": 299
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Buddy Hield",
+            "Time": "SAC",
+            "Pontos": 271
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Damian Lillard",
+            "Time": "POR",
+            "Pontos": 270
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Duncan Robinson",
+            "Time": "MIA",
+            "Pontos": 270
+        },
+        {
+            "Posicao": 5,
+            "Jogador": "Devonte' Graham",
+            "Time": "CHA",
+            "Pontos": 218
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Trae Young",
+            "Time": "ATL",
+            "Pontos": 205
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Tim Hardaway Jr.",
+            "Time": "DAL",
+            "Pontos": 204
+        },
+        {
+            "Posicao": 8,
+            "Jogador": "Davis Bertans",
+            "Time": "WAS",
+            "Pontos": 200
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "CJ McCollum",
+            "Time": "POR",
+            "Pontos": 194
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Bojan Bogdanovic",
+            "Time": "UTA",
+            "Pontos": 189
+        }
+    ],
+    "Total de Pontos": [
+        {
+            "Posicao": 1,
+            "Jogador": "James Harden",
+            "Time": "HOU",
+            "Pontos": 2335
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Damian Lillard",
+            "Time": "POR",
+            "Pontos": 1978
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Devin Booker",
+            "Time": "PHX",
+            "Pontos": 1863
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Giannis Antetokounmpo",
+            "Time": "MIL",
+            "Pontos": 1857
+        },
+        {
+            "Posicao": 5,
+            "Jogador": "Trae Young",
+            "Time": "ATL",
+            "Pontos": 1778
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Luka Doncic",
+            "Time": "DAL",
+            "Pontos": 1759
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Bradley Beal",
+            "Time": "WAS",
+            "Pontos": 1741
+        },
+        {
+            "Posicao": 8,
+            "Jogador": "LeBron James",
+            "Time": "LAL",
+            "Pontos": 1698
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "Donovan Mitchell",
+            "Time": "UTA",
+            "Pontos": 1655
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Anthony Davis",
+            "Time": "LAL",
+            "Pontos": 1618
+        }
+    ],
+    "Assistencias": [
+        {
+            "Posicao": 1,
+            "Jogador": "LeBron James",
+            "Time": "LAL",
+            "Pontos": 684
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Ricky Rubio",
+            "Time": "PHX",
+            "Pontos": 570
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Trae Young",
+            "Time": "ATL",
+            "Pontos": 560
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Luka Doncic",
+            "Time": "DAL",
+            "Pontos": 538
+        },
+        {
+            "Posicao": 5,
+            "Jogador": "Damian Lillard",
+            "Time": "POR",
+            "Pontos": 530
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "James Harden",
+            "Time": "HOU",
+            "Pontos": 512
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Nikola Jokic",
+            "Time": "DEN",
+            "Pontos": 512
+        },
+        {
+            "Posicao": 8,
+            "Jogador": "Ja Morant",
+            "Time": "MEM",
+            "Pontos": 488
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "Chris Paul",
+            "Time": "OKC",
+            "Pontos": 472
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Devonte' Graham",
+            "Time": "CHA",
+            "Pontos": 471
+        }
+    ],
+    "Rebotes": [
+        {
+            "Posicao": 1,
+            "Jogador": "Rudy Gobert",
+            "Time": "UTA",
+            "Pontos": 916
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Hassan Whiteside",
+            "Time": "POR",
+            "Pontos": 905
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Andre Drummond",
+            "Time": "CLE",
+            "Pontos": 864
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Giannis Antetokounmpo",
+            "Time": "MIL",
+            "Pontos": 856
+        },
+        {
+            "Posicao": 5,
+            "Jogador": "Jonas Valanciunas",
+            "Time": "MEM",
+            "Pontos": 788
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Domantas Sabonis",
+            "Time": "IND",
+            "Pontos": 771
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Bam Adebayo",
+            "Time": "MIA",
+            "Pontos": 735
+        },
+        {
+            "Posicao": 8,
+            "Jogador": "Nikola Jokic",
+            "Time": "DEN",
+            "Pontos": 711
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "Nikola Vucevic",
+            "Time": "ORL",
+            "Pontos": 673
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Jarrett Allen",
+            "Time": "BKN",
+            "Pontos": 671
+        }
+    ],
+    "Roubos de Bola": [
+        {
+            "Posicao": 1,
+            "Jogador": "James Harden",
+            "Time": "HOU",
+            "Pontos": 125
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Ben Simmons",
+            "Time": "PHI",
+            "Pontos": 119
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Robert Covington",
+            "Time": "HOU",
+            "Pontos": 115
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Chris Paul",
+            "Time": "OKC",
+            "Pontos": 111
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Dejounte Murray",
+            "Time": "SAS",
+            "Pontos": 111
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Andre Drummond",
+            "Time": "CLE",
+            "Pontos": 109
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Jimmy Butler",
+            "Time": "MIA",
+            "Pontos": 103
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Kawhi Leonard",
+            "Time": "LAC",
+            "Pontos": 103
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "Mikal Bridges",
+            "Time": "PHX",
+            "Pontos": 102
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Kris Dunn",
+            "Time": "CHI",
+            "Pontos": 101
+        }
+    ],
+    "Bloqueios": [
+        {
+            "Posicao": 1,
+            "Jogador": "Hassan Whiteside",
+            "Time": "POR",
+            "Pontos": 196
+        },
+        {
+            "Posicao": 2,
+            "Jogador": "Brook Lopez",
+            "Time": "MIL",
+            "Pontos": 163
+        },
+        {
+            "Posicao": 3,
+            "Jogador": "Anthony Davis",
+            "Time": "LAL",
+            "Pontos": 143
+        },
+        {
+            "Posicao": 4,
+            "Jogador": "Rudy Gobert",
+            "Time": "UTA",
+            "Pontos": 135
+        },
+        {
+            "Posicao": 5,
+            "Jogador": "Myles Turner",
+            "Time": "IND",
+            "Pontos": 132
+        },
+        {
+            "Posicao": 6,
+            "Jogador": "Mitchell Robinson",
+            "Time": "NYK",
+            "Pontos": 119
+        },
+        {
+            "Posicao": 7,
+            "Jogador": "Kristaps Porzingis",
+            "Time": "DAL",
+            "Pontos": 115
+        },
+        {
+            "Posicao": 8,
+            "Jogador": "Jakob Poeltl",
+            "Time": "SAS",
+            "Pontos": 95
+        },
+        {
+            "Posicao": 9,
+            "Jogador": "JaVale McGee",
+            "Time": "LAL",
+            "Pontos": 94
+        },
+        {
+            "Posicao": 10,
+            "Jogador": "Andre Drummond",
+            "Time": "CLE",
+            "Pontos": 93
+        }
+    ]
+}
